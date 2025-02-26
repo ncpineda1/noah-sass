@@ -1,10 +1,16 @@
-# Sass template for ICJ lesson
+# Noah's Sass practice
+
+By Noah, Intro Coding for Journalists class
+
+This repo is a class assignment to show practice Sass. It is due March 1, 2025.
+---
+## Sass template for ICJ lesson
 
 This repo is a template used in the [Intro to Coding for Journalists book](https://utdata.github.io/icj-class/) chapter on Sass.
 
 It is possible run this code in Github Codespaces or run locally if you have Node.js installed.
 
-## Using through Github Codespaces
+### Using through Github Codespaces
 
 1. Go to the [icj-sass-template](https://github.com/utdata/icj-sass-template) repo.
 2. Use the Template to create your own version of the repo.
