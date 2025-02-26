@@ -3,6 +3,7 @@
 By Noah, Intro Coding for Journalists class
 
 This repo is a class assignment to show practice Sass. It is due March 1, 2025.
+
 ---
 ## Sass template for ICJ lesson
 
